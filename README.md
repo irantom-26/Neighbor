@@ -208,4 +208,4 @@ This repository serves as the official landing page for Neighbor. The software i
 **Get the most recent version of Neighbor today!**
 
 ---
-**Last updated:** 2026-11-13 18:23:56 UTC
+**Last updated:** 2026-11-14 00:11:26 UTC
